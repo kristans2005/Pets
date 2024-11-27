@@ -3,8 +3,7 @@ bet slikums izmanotot parasto sql
 
 install
 
-composer i
-
+-   composer i
 -   php artisan migrate
 -   npm i
 
