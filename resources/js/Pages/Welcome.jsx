@@ -27,7 +27,7 @@ export default function Welcome() {
 
                 <div className="container mx-auto pt-24 px-4">
                     <h1 className="text-6xl font-sans text-green-800 dark:text-green-300 font-bold mb-12 text-center animate-fade-in">
-                        Glābi mīļos dzīvnieciņus
+                        Glāb mīļos dzīvnieciņus
                     </h1>
                 </div>
 
